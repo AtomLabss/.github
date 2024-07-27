@@ -1,1 +1,1 @@
-## ![AtomLabs Icon (made by jellmoo)](https://raw.githubusercontent.com/AtomLabss/.github/main/assets/images/atomlabs.png) AtomLabs
+## <img align="left" src="/assets/images/atomlabs.png"> AtomLabs
