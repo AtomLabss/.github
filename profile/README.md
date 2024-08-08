@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/AtomLabss/AtomWeb/main/assets/images/atomgg.png?s=200&v=4" />
+  <img width="100" src="https://raw.githubusercontent.com/AtomLabss/.github/main/assets/images/atomgg.png?s=200&v=4" />
 </p>
 
 <h1 align="center">AtomLabs / Atom</h1>
