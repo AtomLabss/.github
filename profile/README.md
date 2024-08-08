@@ -27,7 +27,7 @@ Atom is a free to use, multi-purpose, all-in-one Discord bot.
 
 ### Usage and Support
 
-Proper usage and documentation for Atom may be in the works, however this may change with time.
+Proper usage and documentation for Atom may be in the works, however this may change with time. <br />
 For any kind of support regarding Atom, feel free to open support tickets in our [Discord server](https://discord.gg/HnYfxmvrHJ).
 
 ### Repositories
@@ -40,6 +40,6 @@ For any kind of support regarding Atom, feel free to open support tickets in our
 
 ### Contribute
 
-Thank you for wanting to tribute to the development of Atom!
-Atom itself is closed-source, however you are free to provide feedback, or contribute to [our website](https://github.com/atomlabss/atomweb).
-We wish you the best of luck!
+Thank you for wanting to tribute to the development of Atom! <br />
+Atom itself is closed-source, however you are free to provide feedback, or contribute to [our website](https://github.com/atomlabss/atomweb). <br />
+We wish you the best of luck! (because we have no idea what we're doing)
