@@ -8,7 +8,7 @@
    <a href="https://discord.gg/HnYfxmvrHJ">
     <img src="https://img.shields.io/discord/1252393773468745852?color=7489d5&logo=discord&logoColor=ffffff" />
   </a>
-  <img src="https://img.shields.io/static/v1?label=Status&message=Beta&color=blue">
+  <img src="https://img.shields.io/static/v1?label=status&message=Beta&color=blue">
 </p>
 
 ### [About](https://atomgg.ddns.net/)
