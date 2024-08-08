@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/users-76,000+-red">
 </p>
 
-<h1 align="center">‎</h1>
+<h1 align="center"></h1>
 
 ### [About](https://atomgg.ddns.net/)
 
