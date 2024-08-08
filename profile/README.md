@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/discord/1252393773468745852?color=7489d5&logo=discord&logoColor=ffffff" />
     </a>
     <img src="https://img.shields.io/static/v1?label=status&message=beta&color=blue">
-    <img src="https://img.shields.io/badge/servers-50+-blue">
-    <img src="https://img.shields.io/badge/users-76,000+-blue">
+    <img src="https://img.shields.io/badge/servers-50+-yellow">
+    <img src="https://img.shields.io/badge/users-76,000+-red">
 </p>
 
 ### [About](https://atomgg.ddns.net/)
