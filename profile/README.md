@@ -35,8 +35,8 @@ For any kind of support regarding Atom, feel free to open support tickets in our
 | Repo name | Brief description |
 | :--- | :--- |
 | [Atom](https://github.com/atomlabss/atom) | Atom + Atom Developer bots |
-| [Website](https://github.com/atomlabss/atomweb) | [Our website](https://atomgg.ddns.net) |
 | [Documentation](https://github.com/atomlabss/atom-docs) | The official documentation for Atom |
+| [Website](https://github.com/atomlabss/atomweb) | The official [website](https://atomgg.ddns.net) for Atom |
 | [Public Profile](https://github.com/atomlabss/.github) | The public profile data for our GitHub profile |
 | [Private Profile](https://github.com/atomlabss/.github-private) | The private profile data for our GitHub profile |
 
