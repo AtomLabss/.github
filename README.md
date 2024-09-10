@@ -37,7 +37,7 @@ For any kind of support regarding Atom, feel free to open support tickets in our
 | [Atom](https://github.com/atomlabss/atom) | Atom + Atom Developer bots |
 | [Documentation](https://github.com/atomlabss/atom-docs) | The official documentation for Atom |
 | [Website](https://github.com/atomlabss/atomweb) | The official [website](https://atomlabs.ie) for Atom |
-| [Legacy Website](https://github.com/atomlabss/atomweb) | Website redirects to our new domain |
+| [Legacy Website](https://github.com/atomlabss/atomweblegacy) | Website redirects to our new domain |
 | [Public Profile](https://github.com/atomlabss/.github) | The public profile data for our GitHub profile |
 | [Private Profile](https://github.com/atomlabss/.github-private) | The private profile data for our GitHub profile |
 
