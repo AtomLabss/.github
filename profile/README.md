@@ -10,12 +10,12 @@
         <img src="https://img.shields.io/discord/1252393773468745852?color=7489d5&logo=discord&logoColor=ffffff" />
         </a>
         <img src="https://img.shields.io/static/v1?label=status&message=beta&color=blue">
-        <img src="https://img.shields.io/badge/servers-50+-orange">
-        <img src="https://img.shields.io/badge/users-76,000+-red">
+        <img src="https://img.shields.io/badge/servers-55+-orange">
+        <img src="https://img.shields.io/badge/users-74,500+-red">
     </p>
 </h1>
 
-### [About](https://atomgg.ddns.net/)
+### [About](https://atomlabs.ie/)
 
 Atom is a free to use, multi-purpose, all-in-one Discord bot.
 
@@ -36,7 +36,8 @@ For any kind of support regarding Atom, feel free to open support tickets in our
 | :--- | :--- |
 | [Atom](https://github.com/atomlabss/atom) | Atom + Atom Developer bots |
 | [Documentation](https://github.com/atomlabss/atom-docs) | The official documentation for Atom |
-| [Website](https://github.com/atomlabss/atomweb) | The official [website](https://atomgg.ddns.net) for Atom |
+| [Website](https://github.com/atomlabss/atomweb) | The official [website](https://atomlabs.ie) for Atom |
+| [Legacy Website](https://github.com/atomlabss/atomweb) | Website redirects to our new domain |
 | [Public Profile](https://github.com/atomlabss/.github) | The public profile data for our GitHub profile |
 | [Private Profile](https://github.com/atomlabss/.github-private) | The private profile data for our GitHub profile |
 
